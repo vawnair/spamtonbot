@@ -34,4 +34,4 @@ client.on('message', message => {
 });
 
 // Login to Discord, replace token with your token.
-client.login('OTI3ODEyOTA0NDMzMTAyODc4.YdPrGg.Jq-3H1WUba5zEBrLiLConLxRlSA');
+client.login('a');
